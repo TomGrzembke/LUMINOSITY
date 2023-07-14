@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/+++workdata/Scenes/MainScene.unity
     guid: 8551e48655a58f244871c14f86c19b1a
   - enabled: 1
+    path: Assets/+++workdata/Scenes/TutorialBattle.unity
+    guid: 41054828e8f2d374ea5745f640234f5c
+  - enabled: 1
     path: Assets/+++workdata/Scenes/Battle 1.unity
     guid: 4e0f6589bdf704c4d88adca16a181439
   - enabled: 1
