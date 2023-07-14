@@ -1,0 +1,1113 @@
+fileFormatVersion: 2
+guid: 19b2823144182e84091a41d206054d8a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24116450fb40bb84c950c6887ed6fd50
+      internalID: 1939409406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 964
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86b79613ca3ca46b8576c3b5f8dbe5
+      internalID: 353651357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 964
+        width: 24
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5458b9e12facf754887d2259193a30cf
+      internalID: -1524796478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 964
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a0f70f3f5064846a7b94ffa9c86b00
+      internalID: 384843360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 964
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613b3b4de259b64da6a4a26f5171c13
+      internalID: -1564281621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f9bab4203e3b4b82ab816ee93f9b6
+      internalID: 1032588753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 898
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.17777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa80e3bef2b933428d366b8b93aebea
+      internalID: -438679319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 899
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6643a5d11555049bef7dbd80efb3e9
+      internalID: -176293296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 898
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.17777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a5f23ee1d9a0428172d3dad08b164
+      internalID: 1022874857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe4cb2b1133074c8bec3c12fc51619
+      internalID: -1543418610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 835
+        width: 26
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.18367347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5db4e3ee2d5a44db7289032faa5e5f
+      internalID: -22438243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 836
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf46c4911951e0044a0dc7f50cf1f9d1
+      internalID: -1871510087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 836
+        width: 28
+        height: 48
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedd2fc0d42fe4149abe61ab60b12b8d
+      internalID: -440456897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 773
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ade73bfabf46364cbef2f0257b82c1c
+      internalID: 1680309972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 773
+        width: 23
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd2f2acad6376349a52c0351d45410e
+      internalID: 2006892013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 773
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7307693, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b8123da98fbf84ea0a5de444f7d242
+      internalID: -747054609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 773
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: 0.71999997, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f7a71c9120634ca68b36ea0d6843b
+      internalID: 836337186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 773
+        width: 24
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7083334, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6099f5a7a8630ef4aa6c18982c5a89e0
+      internalID: 784481028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 773
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3924f6fb80f3aaa4b931d0a522107e3f
+      internalID: -858282774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 709
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.35, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba074f0fc719dc84f8d22b58f5c3b553
+      internalID: -1533277305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 707
+        width: 26
+        height: 49
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.20408162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f2863bfdfa1c54c8b5542114e4fbf2
+      internalID: 194869201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 708
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.35, y: 0.19148935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf05bc76a3e4d4c8784b7be64000a8
+      internalID: 1547953413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 708
+        width: 28
+        height: 48
+      alignment: 9
+      pivot: {x: 0.39285716, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bad377064547843b08d732b915a3c4
+      internalID: -2147413499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 645
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.35, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99a88bab5830d4094717dd856eaa3f
+      internalID: 2143772455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 645
+        width: 23
+        height: 47
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1270e64883c01b942b2aad092eb9b7dd
+      internalID: 412841381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 645
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246b8165e1bc62f4995bd5030a50b999
+      internalID: 1289343273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 645
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: 0.28, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57075e85f0b5f0b4589fed95cc6c41ca
+      internalID: 2098525899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 645
+        width: 24
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc42a2f142ebaf418bdc65d0b5c98e7
+      internalID: -1494602451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 645
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.35, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e249b23fbb1ce408eb2b9a64c41475
+      internalID: 1339086660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 580
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63817db040a5c641b56fdb8f8b43a9e
+      internalID: -2047332559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 578
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3e2d0b3e57ac948ad8b4a0f76b8f66
+      internalID: -289827992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 579
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f316d302db1f54d8c9b134d3aab984
+      internalID: -110848053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 578
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b278cd2b7d5f4ad4f8d957f13ecf70c1
+      internalID: 698778056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 516
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee50c69bbbbb95c42b99caf3c985f604
+      internalID: -520034909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 516
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcbd7cecae0f30448125bb9699b1081
+      internalID: -1608202912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 516
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bde8f8046008844ba5057f57062b67
+      internalID: 39426835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 516
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9874e87ed98d4294bacaec078393b0e0
+      internalID: -9689409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 516
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330fa5dca6c62146803d49e5983c2a3
+      internalID: -1959936636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 516
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17599126aa807244a9d4a7f064754ef3
+      internalID: 499397179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 452
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b8bfc8bcf725248b688a0514922034
+      internalID: 1729554982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 450
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.19565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0dafd2c5a3aef4d8b5f47add2ba579
+      internalID: -132170675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 452
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020927914972a2418eae9c4dd87d546
+      internalID: -409957014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 449
+        width: 26
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.21276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b5329bd7b34f6449bc771cb2f96ab8
+      internalID: 1398563586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 379
+        width: 182
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93610bfadc60c794385cd59ed574fb86
+      internalID: 415959378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ven_spritesheet2.1 1_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 392
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8365dcf264c394e82064dc413c2ebf
+      internalID: 938598852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ven_spritesheet2.1 1_10: -22438243
+      ven_spritesheet2.1 1_38: 499397179
+      ven_spritesheet2.1 1_13: 1680309972
+      ven_spritesheet2.1 1_28: 1339086660
+      ven_spritesheet2.1 1_19: -1533277305
+      ven_spritesheet2.1 1_16: 836337186
+      ven_spritesheet2.1 1_20: 194869201
+      ven_spritesheet2.1 1_36: -9689409
+      ven_spritesheet2.1 1_8: 1022874857
+      ven_spritesheet2.1 1_40: -132170675
+      ven_spritesheet2.1 1_14: 2006892013
+      ven_spritesheet2.1 1_21: 1547953413
+      ven_spritesheet2.1 1_31: -110848053
+      ven_spritesheet2.1 1_1: 353651357
+      ven_spritesheet2.1 1_35: 39426835
+      ven_spritesheet2.1 1_24: 412841381
+      ven_spritesheet2.1 1_23: 2143772455
+      ven_spritesheet2.1 1_29: -2047332559
+      ven_spritesheet2.1 1_0: 1939409406
+      ven_spritesheet2.1 1_18: -858282774
+      ven_spritesheet2.1 1_11: -1871510087
+      ven_spritesheet2.1 1_15: -747054609
+      ven_spritesheet2.1 1_3: 384843360
+      ven_spritesheet2.1 1_32: 698778056
+      ven_spritesheet2.1 1_39: 1729554982
+      ven_spritesheet2.1 1_44: 938598852
+      ven_spritesheet2.1 1_26: 2098525899
+      ven_spritesheet2.1 1_43: 415959378
+      ven_spritesheet2.1 1_9: -1543418610
+      ven_spritesheet2.1 1_22: -2147413499
+      ven_spritesheet2.1 1_17: 784481028
+      ven_spritesheet2.1 1_4: -1564281621
+      ven_spritesheet2.1 1_34: -1608202912
+      ven_spritesheet2.1 1_45: -1496936534
+      ven_spritesheet2.1 1_27: -1494602451
+      ven_spritesheet2.1 1_2: -1524796478
+      ven_spritesheet2.1 1_30: -289827992
+      ven_spritesheet2.1 1_6: -438679319
+      ven_spritesheet2.1 1_25: 1289343273
+      ven_spritesheet2.1 1_42: 1398563586
+      ven_spritesheet2.1 1_37: -1959936636
+      ven_spritesheet2.1 1_5: 1032588753
+      ven_spritesheet2.1 1_12: -440456897
+      ven_spritesheet2.1 1_7: -176293296
+      ven_spritesheet2.1 1_33: -520034909
+      ven_spritesheet2.1 1_41: -409957014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

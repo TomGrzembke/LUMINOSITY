@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 9ab627979abeb4f4e87839a7dc60670f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dwayne_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0.1764706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d17c159e322c64296ff79140bd1cf8
+      internalID: -805621024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 195
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.1764706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0fd10fbb6df9b439a2aa4ed8378dd7
+      internalID: 1772385210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 195
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.1764706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a9d52b49042b24db215d78a2670cf6
+      internalID: 234786139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 195
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.1764706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2ccb81dc5d7664383f4339dc0f7dcb
+      internalID: -822793614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 197
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.21052632, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8a33ab11d9a8648ba262a01f686772
+      internalID: 1091848224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 197
+        width: 17
+        height: 22
+      alignment: 9
+      pivot: {x: 0.11764706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29797e552a10f0419462044454cc95a
+      internalID: -1182725539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 133
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059a1644fc55d1418a44cc871126074
+      internalID: -1584365508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 133
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a34c2a0ade9b478302e271d527c42
+      internalID: 665416029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 67
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0.1764706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b69e42cc943c3429c8fbb80d78df4e
+      internalID: 537629444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fca987f523a034893b17e2413f5a7c
+      internalID: -446128076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.13333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87572b59b1bfcc48b99cec0b8e47299
+      internalID: 1365904579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7dac989be021e4d8155bfca9a32b9a
+      internalID: -972680874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.40000004, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3555b07f55c3bb4439fddacb88765d5a
+      internalID: 384083677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2d959f3a58124fb6f26fae22ccac0
+      internalID: 1447167520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7774ecb6bde648c44a44b7dc35dfcd87
+      internalID: -2055747209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwayne_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcc79da78bceff4d9cea04e042e3bd4
+      internalID: 348755135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dwayne_sprites_17: -548321053
+      dwayne_sprites_4: 1091848224
+      dwayne_sprites_14: -2055747209
+      dwayne_sprites_15: 348755135
+      dwayne_sprites_9: -446128076
+      dwayne_sprites_2: 234786139
+      dwayne_sprites_10: 1365904579
+      dwayne_sprites_8: 537629444
+      dwayne_sprites_0: -805621024
+      dwayne_sprites_1: 1772385210
+      dwayne_sprites_3: -822793614
+      dwayne_sprites_7: 665416029
+      dwayne_sprites_5: -1182725539
+      dwayne_sprites_6: -1584365508
+      dwayne_sprites_11: -972680874
+      dwayne_sprites_16: 1211938286
+      dwayne_sprites_12: 384083677
+      dwayne_sprites_13: 1447167520
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

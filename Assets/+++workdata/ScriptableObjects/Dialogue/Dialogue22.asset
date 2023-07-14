@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3f4832c25522d49bfc3b4851859ecc, type: 3}
+  m_Name: Dialogue22
+  m_EditorClassIdentifier: 
+  charNames:
+  - Speaker
+  - Ven
+  - Keian
+  - Dwayne
+  - Vara
+  - Tucker
+  sentencesNameID: 02000000010000000200000001000000
+  sentences:
+  - "See? That wasn\u2019t so bad! "
+  - "You\u2019re too accepting of everything, Kei. "
+  - 'Hm? '
+  - "Nothing, don\u2019t worry about it. That path to the north should be open now,
+    right? Let\u2019s go. "
+  ID: 22

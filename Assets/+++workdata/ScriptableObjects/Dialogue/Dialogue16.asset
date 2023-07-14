@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3f4832c25522d49bfc3b4851859ecc, type: 3}
+  m_Name: Dialogue16
+  m_EditorClassIdentifier: 
+  charNames:
+  - Speaker
+  - Ven
+  - Keian
+  - Dwayne
+  - Vara
+  - Tucker
+  sentencesNameID: 02000000010000000200000002000000020000000100000002000000010000000200000001000000
+  sentences:
+  - 'This place never changed. '
+  - 'Never been here before. '
+  - I know! I always wanted to show you, but neither your father nor Vara let me
+    take you here.
+  - "I told them I\u2019d watch over you, even if you\u2019re capable enough on your
+    own, but they never thought I\u2019m up to the task."
+  - Well, here we are now.
+  - "Yeah, here we are, and you still don\u2019t need to watch over me."
+  - Aw, come on, can you at least play along and be a damsel in distress for one
+    minute?
+  - In your dreams, maybe.
+  - How did you know!?
+  - "Very funny. Let\u2019s go now."
+  ID: 16

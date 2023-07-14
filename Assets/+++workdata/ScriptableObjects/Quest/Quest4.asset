@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bb8bbf42a8cf9947b97cd1a12b8b283, type: 3}
+  m_Name: Quest4
+  m_EditorClassIdentifier: 
+  questName: Main Quest
+  questShortDescripton: Find all three items and place them on the altar.
+  questDetailedDescription: "With the newfound information about Mount Zeatin, Ven
+    and Kei\u2019an now have to find gifts to offer up to a so-called \u201Cemissary\u201D.
+    They don\u2019t know much about them, thus Ven isn\u2019t too fond of the idea.\r\n\nNot
+    that he has much of a choice, anyway.\r\n"

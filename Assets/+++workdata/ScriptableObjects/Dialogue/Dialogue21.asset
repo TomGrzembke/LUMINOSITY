@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3f4832c25522d49bfc3b4851859ecc, type: 3}
+  m_Name: Dialogue21
+  m_EditorClassIdentifier: 
+  charNames:
+  - Speaker
+  - Ven
+  - Keian
+  - Dwayne
+  - Vara
+  - Tucker
+  sentencesNameID: 0100000003000000010000000300000003000000
+  sentences:
+  - This is the emissary?
+  - 'So many things to twain with! Wow!! '
+  - 'I get why Father and Vara always told me to not go in here now. '
+  - 'Did you two give this to me? Is it for me? '
+  - "You\u2019re so nice! I wanna twain with you again soon, thank you! I\u2019ll
+    open the way for you now. "
+  ID: 21

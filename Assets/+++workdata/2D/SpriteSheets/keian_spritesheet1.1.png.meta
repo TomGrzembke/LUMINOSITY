@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: 36bf9c40e907d38419b18114110ae770
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 516
+        width: 21
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba0f4e7faa0bb54180f9a7ae7b930ec
+      internalID: -1751631962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 516
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b31189468f7148bfc12a9ea5fb313
+      internalID: 1455339492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 516
+        width: 21
+        height: 44
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a275b4c487d16c42a4d9ba985d49ed4
+      internalID: 1608628076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 516
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0.3809524, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb19ab92a62da4c8111667fb8f210d
+      internalID: 1171503008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 452
+        width: 21
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3809524, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80cf4446a206dd43aa4f960d6e7bf70
+      internalID: -1040457203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 449
+        width: 19
+        height: 48
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fb973ebd023ca4fba4e0342027b646
+      internalID: -1718364203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 452
+        width: 21
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea7991fff383f4795b41febb35211c
+      internalID: 1708164344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 450
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e70aefbbb80ac478e75b2e8ddd3b65
+      internalID: 351875091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 389
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65000004, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca4870bf8010634b98bd6feba51a3ac
+      internalID: 870904845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 388
+        width: 23
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3423e2b820414443ab077a6eecb3592
+      internalID: 1691292998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 389
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cac58773973904cad78b511722038e
+      internalID: -1804682167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 388
+        width: 23
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33502f09c23d3e43b171c6992d7d7eb
+      internalID: 285384355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 325
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc44ed402ae07c4d9465149292e2b32
+      internalID: -606652273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 325
+        width: 21
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f506b2201b83d9438f43e147009eaaf
+      internalID: -993915972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 325
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efa71e7698198d4d9e467ab77f31acc
+      internalID: -249626419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 325
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b85f763b411c36478ffb84024a55f07
+      internalID: 2054715008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 325
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df99167bf3255b45891d9073a250398
+      internalID: -1775545189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 325
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65000004, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e70aeedf572cde4a8b2530ac2d6e3b1
+      internalID: -1007025079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 261
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb598597ad91a0449c2d71d4c81dc52
+      internalID: 1215000120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 261
+        width: 21
+        height: 50
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e9c8383accc564d97354231effedd9
+      internalID: 1968635772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 261
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78a6053e1440114d80015e2e5608b8f
+      internalID: 882276202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 261
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ad1ca817f0a414995049fde0c4e0bc
+      internalID: 926188234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 261
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944851ddb0dfb6a40a0be1c05fc8815b
+      internalID: -327804101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 261
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c99b10f698fe3842bee51d473014f87
+      internalID: 164558387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b902e4f3cbde791449f999b6d4139104
+      internalID: 2134663354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 196
+        width: 23
+        height: 51
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b304eb8def1a6c44818ed5ba84c2122
+      internalID: 682943874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 197
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8353b418a521a8f49a7ad5e97240cd58
+      internalID: 860695600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 196
+        width: 23
+        height: 51
+      alignment: 9
+      pivot: {x: 0.43478262, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fa275902c82fe49bd1db4f0767a94c
+      internalID: -772926184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2212ef2eee56479631230927ecfcb
+      internalID: 1871729284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 21
+        height: 44
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.045454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08875e5981dc884a97939e26c57bcc6
+      internalID: 656455554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4990349743bb4398c110bdf61552a
+      internalID: 806109137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e5d6f962b122043962c13ac57766c3
+      internalID: 790260187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4a3c4eda319c4492bedf8700ee189
+      internalID: -1226597967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f9e55bdde7564f9e8339ac16d3948
+      internalID: 774804800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 19
+        height: 44
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.045454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1621e513e06af4abffbba3261c6851
+      internalID: 783698728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25df5f5dd7183a478c6c083453cdfd0
+      internalID: 901454909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 20
+        height: 45
+      alignment: 9
+      pivot: {x: 0.35, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764291e30591eba4fa7e4960eb6061bc
+      internalID: -563169154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keian_spritesheet1.1_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c3cae58a90ff4ba1c5364cd981656
+      internalID: -533663687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      keian_spritesheet1.1_19: 1968635772
+      keian_spritesheet1.1_9: 1691292998
+      keian_spritesheet1.1_7: 351875091
+      keian_spritesheet1.1_25: 682943874
+      keian_spritesheet1.1_14: -249626419
+      keian_spritesheet1.1_34: 783698728
+      keian_spritesheet1.1_1: 1455339492
+      keian_spritesheet1.1_23: 164558387
+      keian_spritesheet1.1_2: 1608628076
+      keian_spritesheet1.1_35: 901454909
+      keian_spritesheet1.1_29: 656455554
+      keian_spritesheet1.1_8: 870904845
+      keian_spritesheet1.1_28: 1871729284
+      keian_spritesheet1.1_6: 1708164344
+      keian_spritesheet1.1_11: 285384355
+      keian_spritesheet1.1_3: 1171503008
+      keian_spritesheet1.1_21: 926188234
+      keian_spritesheet1.1_5: -1718364203
+      keian_spritesheet1.1_33: 774804800
+      keian_spritesheet1.1_16: -1775545189
+      keian_spritesheet1.1_24: 2134663354
+      keian_spritesheet1.1_18: 1215000120
+      keian_spritesheet1.1_31: 790260187
+      keian_spritesheet1.1_13: -993915972
+      keian_spritesheet1.1_4: -1040457203
+      keian_spritesheet1.1_12: -606652273
+      keian_spritesheet1.1_10: -1804682167
+      keian_spritesheet1.1_20: 882276202
+      keian_spritesheet1.1_32: -1226597967
+      keian_spritesheet1.1_15: 2054715008
+      keian_spritesheet1.1_0: -1751631962
+      keian_spritesheet1.1_30: 806109137
+      keian_spritesheet1.1_37: -533663687
+      keian_spritesheet1.1_17: -1007025079
+      keian_spritesheet1.1_27: -772926184
+      keian_spritesheet1.1_26: 860695600
+      keian_spritesheet1.1_22: -327804101
+      keian_spritesheet1.1_36: -563169154
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3f4832c25522d49bfc3b4851859ecc, type: 3}
+  m_Name: Dialogue17
+  m_EditorClassIdentifier: 
+  charNames:
+  - Speaker
+  - Ven
+  - Keian
+  - Dwayne
+  - Vara
+  - Tucker
+  sentencesNameID: 0500000002000000020000000500000001000000050000000100000005000000010000000500000005000000050000000500000005000000010000000200000005000000
+  sentences:
+  - "Kei\u2019an! Been a while. Who\u2019s your friend? "
+  - This is Ven! Long story short, we need your help.
+  - 'How do we get back to my city fastest from here? '
+  - "Well, that\u2019d be the exit to the north. "
+  - 'Alright, thank y- '
+  - 'But! '
+  - "Aaand there\u2019s the catch. What a surprise. "
+  - 'It only opens for those accepted by The Mountain. '
+  - "And how, if you\u2019d be so kind, do we get its approval? "
+  - "There\u2019s an emissary of The Mountain who we offer up gifts to."
+  - Your best shot is to get some food, a weapon and maybe something like armor.
+  - "Li\u2019l critter wants to get stronger."
+  - " A bat stole a gift I prepared, actually. If you find it, I\u2019ll let you
+    use it in my stead."
+  - "Other than that, it shouldn't be too hard to find stuff \u2018round here. You
+    can then put it down at the altar in the center of the city. "
+  - "So\u2026 we\u2019re making some deity-thing we don\u2019t know stronger when
+    it could possibly not approve of and kill us. "
+  - "Sounds fool-proof! Let\u2019s go Ven. "
+  - 'Take care, and good luck. '
+  ID: 17

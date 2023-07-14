@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3f4832c25522d49bfc3b4851859ecc, type: 3}
+  m_Name: Dialogue11
+  m_EditorClassIdentifier: 
+  charNames:
+  - Speaker
+  - Ven
+  - Keian
+  - Dwayne
+  - Vara
+  - Tucker
+  sentencesNameID: 0200000002000000010000000200000001000000020000000100000001000000020000000400000001000000020000000200000001000000
+  sentences:
+  - "Oh, thank Fafnir, you\u2019re alive and not on top of a pile of bodies! Are
+    you hurt?"
+  - I brought herbs to soothe your wounds, if you have any! Also-
+  - "Kei\u2019an, breathe."
+  - 'Right, right, yeah. '
+  - "Got no injuries as far as I know. How\u2026 did you get here so fast? "
+  - 'Grabbed what I could when I heard about it and off I went! I was worried, you
+    know? '
+  - "Kei\u2019an\u2026 "
+  - 'Thanks. '
+  - "My clan knows I\u2019m bringing you with me. "
+  - "Take care. And pray tell me when you\u2019re back, or if you need anything at
+    all. "
+  - "If some soldier doesn\u2019t bring our heads to some higher up he has to impress
+    first. "
+  - "Some things never change, eh? We\u2019ll keep each other safe, no need to worry
+    like that! "
+  - "Let\u2019s just stick close together, alright? "
+  - 'Whatever you say, Kei. Lead the way. '
+  ID: 11

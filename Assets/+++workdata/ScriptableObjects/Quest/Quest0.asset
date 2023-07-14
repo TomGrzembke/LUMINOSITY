@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bb8bbf42a8cf9947b97cd1a12b8b283, type: 3}
+  m_Name: Quest0
+  m_EditorClassIdentifier: 
+  questName: Main Quest
+  questShortDescripton: Keep going right.
+  questDetailedDescription: "With his home having been attacked, Ven\u2019s clan
+    forced him to run away and survive on his own. The young leader obliged, though
+    with hesitation and a heavy heart. He can\u2019t think of anything else but the
+    guilt eating him up from the inside, wrapping itself around him like it\u2019s
+    about to suffocate him.  \n\nHe has no choice, though. His death would mean utter
+    chaos for the remaining members of the Petrichor clan. So he runs. "

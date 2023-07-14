@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bb8bbf42a8cf9947b97cd1a12b8b283, type: 3}
+  m_Name: Quest5
+  m_EditorClassIdentifier: 
+  questName: Main Quest
+  questShortDescripton: Leave the city through the north exit.
+  questDetailedDescription: "Having gained Dwayne\u2019s trust, the pair is allowed
+    to pass and continue on their path. Night is still looming above them, perfectly
+    engulfing them in the shadows and granting them the element of stealth to be
+    on their side.\r\n\nSwiftness is key to arrive before dawn.\r\n\n\n"

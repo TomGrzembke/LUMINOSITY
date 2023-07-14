@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3f4832c25522d49bfc3b4851859ecc, type: 3}
+  m_Name: Dialogue18
+  m_EditorClassIdentifier: 
+  charNames:
+  - Speaker
+  - Ven
+  - Keian
+  - Dwayne
+  - Vara
+  - Tucker
+  sentencesNameID: 0100000002000000020000000200000001000000
+  sentences:
+  - "Why do I feel like we\u2019ve been sent to do his chores? "
+  - 'Kinda, but not necessarily. '
+  - 'You see, these folks are the Zeatin clan, named after the mountain they worship
+    and have lived within for decades upon decades. '
+  - " It\u2019s a God to them, in a way. I\u2019ve heard of this emissary Tucker
+    mentioned before, but I\u2019ve never seen them. So let\u2019s hope they\u2019ll
+    grant us passage! "
+  - "Let\u2019s gear up that \u201Cemissary\u201D then. C\u2019mon. "
+  ID: 18

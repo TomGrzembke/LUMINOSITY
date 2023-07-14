@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3f4832c25522d49bfc3b4851859ecc, type: 3}
+  m_Name: Dialogue0
+  m_EditorClassIdentifier: 
+  charNames:
+  - Speaker
+  - Ven
+  - Keian
+  - Dwayne
+  - Vara
+  - Tucker
+  sentencesNameID: 02000000010000000200000001000000010000000200000002000000
+  sentences:
+  - "This is horrible\u2026 I\u2019m so sorry, Ven. "
+  - "\u2026 "
+  - 'Any idea who it was? '
+  - "\u2026 "
+  - 'Not yet. '
+  - 'I see. '
+  - "Sorry, I shouldn\u2019t be prying. Let\u2019s move. "
+  ID: 0

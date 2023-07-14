@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3f4832c25522d49bfc3b4851859ecc, type: 3}
+  m_Name: Dialogue12
+  m_EditorClassIdentifier: 
+  charNames:
+  - Speaker
+  - Ven
+  - Keian
+  - Dwayne
+  - Vara
+  - Tucker
+  sentencesNameID: 020000000100000002000000020000000200000001000000020000000200000001000000
+  sentences:
+  - 'Remember when we used to sneak out to play here when our families had their
+    fancy meetings? '
+  - "Vividly. Like you almost drowning and doggy-paddling back to me isn\u2019t etched
+    into my mind. "
+  - "Hey! That\u2019s not what I remember! "
+  - I remember how we went deeper into the cave and built little stone-men, like
+    this one!
+  - "Then your father found us and scolded me for bringing you here, but you told
+    him it\u2019s your fault."
+  - "That\u2019s because you used to cry when you got scolded."
+  - 'Your father was scary, can you blame me? '
+  - 'He was a good man, though. '
+  - "That he was\u2026 "
+  ID: 12

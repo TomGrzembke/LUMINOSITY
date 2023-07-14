@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 9ed26588d63c3bb47abcf3314c855e27
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wasser_Umrandungen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1575
+        height: 822
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -787.5, y: -411}
+        - {x: -787.5, y: 411}
+        - {x: 104.56, y: 72.29999}
+        - {x: 107.68005, y: 72.28003}
+        - {x: 107.70001, y: 73.859985}
+        - {x: 104.50482, y: 73.96588}
+        - {x: 104.55664, y: 76.96982}
+        - {x: 111.71228, y: 86.889496}
+        - {x: 98.700134, y: 249.05597}
+        - {x: 787.5, y: 411}
+        - {x: 787.5, y: -411}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0604068815c1e74428803eb6565ea539
+      internalID: 557641750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasser_Umrandungen_1
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 1575
+        height: 822
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -787.5, y: -411}
+        - {x: -787.5, y: 411}
+        - {x: 104.488525, y: 73.762054}
+        - {x: 104.48389, y: 72.20032}
+        - {x: 107.72363, y: 72.15924}
+        - {x: 109.305176, y: 73.902405}
+        - {x: 109.19385, y: 75.46524}
+        - {x: 109.15454, y: 77.10333}
+        - {x: 116.36743, y: 298.26556}
+        - {x: 787.5, y: 237}
+        - {x: 787.5, y: -411}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553cc3a0cda815c41a9cf288af14757a
+      internalID: 1246505490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasser_Umrandungen_2
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 1575
+        height: 822
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -427.8401, y: -411}
+        - {x: -414.9961, y: 156.71985}
+        - {x: 104.533936, y: 72.245605}
+        - {x: 107.79248, y: 72.19495}
+        - {x: 107.7417, y: 73.87521}
+        - {x: 104.07788, y: 73.95853}
+        - {x: 104.09204, y: 79.07437}
+        - {x: 117.01782, y: 209.22083}
+        - {x: 787.5, y: 138.73773}
+        - {x: 787.5, y: -411}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05607f8fed3e4c34cb093f4a407ce8dc
+      internalID: 1027566150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasser_Umrandungen_3
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 0
+        width: 1575
+        height: 822
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -470.61035, y: -411}
+        - {x: -487.99463, y: 196.70605}
+        - {x: 104.069824, y: 72.2543}
+        - {x: 107.686035, y: 72.244965}
+        - {x: 107.62695, y: 73.83725}
+        - {x: 104.870605, y: 74.975586}
+        - {x: 103.55078, y: 123.11926}
+        - {x: 786.05273, y: 156.96967}
+        - {x: 787.5, y: -411}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c743270c597d1d7458eaa2554bfa6cf9
+      internalID: 1711119028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wasser_Umrandungen_3: 1711119028
+      Wasser_Umrandungen_2: 1027566150
+      Wasser_Umrandungen_0: 557641750
+      Wasser_Umrandungen_1: 1246505490
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
