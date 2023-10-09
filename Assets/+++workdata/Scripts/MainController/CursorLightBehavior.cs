@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Rendering.Universal;
 
 /// <summary>
 /// Attach the GameObject under the camera to avoid flickering when moving and not adjusting the mouse
