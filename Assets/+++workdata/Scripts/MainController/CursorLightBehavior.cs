@@ -27,7 +27,7 @@ public class CursorLightBehavior : MonoBehaviour
     /// </summary>
     private void LightPosUpdate()
     {
-        Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+        Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         mouseWorldPos.z = 0;
         transform.position = mouseWorldPos;
     }

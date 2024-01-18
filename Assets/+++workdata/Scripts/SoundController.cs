@@ -12,6 +12,7 @@ public class SoundController : MonoBehaviour
     {
         sfxAudioSource.playOnAwake = false;
     }
+
     #region Sounds
     public void ButtonClickSound()
     {
