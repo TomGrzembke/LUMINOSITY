@@ -24,7 +24,7 @@ public class BulletBehavior : MonoBehaviour
     /// <summary>
     /// Invokes the destroyItself function
     /// </summary>
-    private void Start()
+    void Start()
     {
         Invoke(nameof(DestroyItself), 5f);
     }
@@ -52,17 +52,11 @@ public class BulletBehavior : MonoBehaviour
     /// Is used for the trigger component on the bullet
     /// </summary>
     /// <param name="collision">Collision is the GameObject which triggered the bullet</param>
-    private void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Props"))
-        {
-            DestroyItself();
-        }
-        else if (collision.CompareTag("Player"))
-        {
-            target = collision.gameObject;
-            target.GetComponent<PlayerBattle>().ApplyDamage(damage);
-        }
+        if (!collision.CompareTag("Player")) return;
 
+        target = collision.gameObject;
+        target.GetComponent<PlayerBattle>().ApplyDamage(damage);
     }
 }
