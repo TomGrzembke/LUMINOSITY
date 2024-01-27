@@ -7,7 +7,7 @@ public class BushBehavior : MonoBehaviour
     [SerializeField] PlayerMovement playerMovement;
     #endregion
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
@@ -16,7 +16,7 @@ public class BushBehavior : MonoBehaviour
         }
     }
 
-    private void OnTriggerExit2D(Collider2D collision)
+    void OnTriggerExit2D(Collider2D collision)
     {
 
         if (collision.CompareTag("Player"))

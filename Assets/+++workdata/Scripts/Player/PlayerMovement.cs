@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
     /// <summary>
     /// Determines the percantage of slows through bushes
     /// </summary>
-    [SerializeField] float slowPercentage;
+    [SerializeField] float slowPercentage = .1f;
     /// <summary>
     /// Keeps track wether the player is sprinting or not
     /// </summary>

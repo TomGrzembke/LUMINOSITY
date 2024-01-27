@@ -61,7 +61,7 @@ public class KeianMainSceneBehavior : MonoBehaviour, IDataPersistence
     /// <summary>
     /// Gets the Access to the navmeshAgent and prevents his agent from rotating the z axis
     /// </summary>
-    private void Awake()
+    void Awake()
     {
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
@@ -71,8 +71,15 @@ public class KeianMainSceneBehavior : MonoBehaviour, IDataPersistence
     #endregion
 
 
-    private void OnEnable()
+    void OnEnable()
     {
+        agent.enabled = true;
+
+        if (NavMesh.SamplePosition(transform.position, out NavMeshHit closestHit, 500f, NavMesh.AllAreas))
+            transform.position = closestHit.position;
+        else
+            Debug.LogError("Could not find position on NavMesh!");
+
         currentMovePointID = 1;
     }
 
@@ -80,7 +87,7 @@ public class KeianMainSceneBehavior : MonoBehaviour, IDataPersistence
     /// Keeps track of the remaining distance of the destination of the agent and updates the animator
     /// Searches the current movepoint and executes the setAgentPosition method
     /// </summary>
-    private void FixedUpdate()
+    void FixedUpdate()
     {
         if (agent.velocity == Vector3.zero)
         {
@@ -155,7 +162,7 @@ public class KeianMainSceneBehavior : MonoBehaviour, IDataPersistence
         agent.SetDestination(currentMovePoint);
     }
 
-    private void Movement()
+    void Movement()
     {
         if (agent.velocity == Vector3.zero) return;
 
