@@ -17,7 +17,9 @@ public class DwayneBehavior : MonoBehaviour, IDataPersistence
     /// <summary>
     /// An overview of Dwaynes current behavior
     /// </summary>
+#pragma warning disable CS0414
     [SerializeField] State currentState;
+#pragma warning restore CS0414 
     [SerializeField] Transform startTrans;
     [SerializeField] Transform resetTrans;
 
