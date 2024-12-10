@@ -35,13 +35,6 @@ public class FlashEffect : MonoBehaviour
         sr.material = originalMaterial;
         flashCoroutine = null;
     }
-    #region Getters
-
-    #endregion
-
-    #region Setters
-
-    #endregion
 
 }
 

@@ -69,8 +69,10 @@ public class SlotManager : MonoBehaviour, IDataPersistence
         {
             if (itemSos[i] == null)
             {
-                itemSos.RemoveAt(i);
-                IDList.RemoveAt(i);
+                if (itemSos.Count >= i)
+                    itemSos.RemoveAt(i);
+                if (IDList.Count > i)
+                    IDList.RemoveAt(i);
             }
         }
 
@@ -79,6 +81,7 @@ public class SlotManager : MonoBehaviour, IDataPersistence
             slotScripts[index].SetItemSo(null);
         }
     }
+
     #region Getters
     /// <summary>
     /// Checks if the given ID is in the IDList

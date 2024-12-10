@@ -134,7 +134,8 @@ public class DwayneBehavior : MonoBehaviour, IDataPersistence
     {
         DisableFalling();
         agent.enabled = true;
-        agent.Warp(resetTrans.position);
+        if (resetTrans)
+            agent.Warp(resetTrans.position);
         rb.velocity = Vector2.zero;
     }
 
