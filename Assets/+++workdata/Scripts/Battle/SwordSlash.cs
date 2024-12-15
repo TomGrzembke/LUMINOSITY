@@ -50,23 +50,22 @@ public class SwordSlash : MonoBehaviour
     /// Is used for the trigger component on the bullet
     /// </summary>
     /// <param name="collision">Collision is the GameObject which triggered the swordSlash</param>
-    private void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Props"))
         {
             DestroyItself();
         }
+
         else if (collision.CompareTag("Enemy"))
         {
             target = collision.gameObject;
-            try
-            {
-                target.GetComponent<EnemyBehavior>().ChangeHP(-1);
-            }
-            catch
-            {
-                target.GetComponent<VaraBehavior>().ChangeHP(-1);
-            }
+
+            if (target.TryGetComponent(out EnemyBehavior enemyBehavior))
+                enemyBehavior.ChangeHP(-1);
+
+            else if (target.TryGetComponent(out VaraBehavior varaBehavior))
+                varaBehavior.ChangeHP(-1);
         }
     }
 }

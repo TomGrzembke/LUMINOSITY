@@ -21,7 +21,7 @@ MonoBehaviour:
   - Tucker
   sentencesNameID: 04000000010000000400000004000000
   sentences:
-  - "Ow! That\u2019s no way to treat your elders! "
+  - 'Ow! That''s no way to treat your elders! '
   - Make up your mind, old man.
   - "I\u2019m just pulling your leg, son. "
   - Alright, one last thing, then.
