@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Parallex : MonoBehaviour
 {
-    private float startposX;
-    private float startposY;
+    float startposX;
+    float startposY;
     public GameObject cam;
     public float parallaxEffectX;
     public float parallaxEffectY;
@@ -14,10 +14,10 @@ public class Parallex : MonoBehaviour
         startposY = transform.position.y;
     }
 
-    void FixedUpdate()
+    void Update()
     {
         float distX = (cam.transform.position.x * parallaxEffectX);
         float distY = (cam.transform.position.y * parallaxEffectY);
-        transform.position = new Vector3(startposX + distX, startposY + distY, transform.position.z);
+        transform.position = new(startposX + distX, startposY + distY, transform.position.z);
     }
 }
