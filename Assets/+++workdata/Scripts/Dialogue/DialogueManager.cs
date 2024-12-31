@@ -82,6 +82,8 @@ public class DialogueManager : MonoBehaviour
     /// </summary>
     [SerializeField] Sprite[] charNameBGImages;
     [SerializeField] List<int> conversationIDWasPlayed = new();
+
+    const string textAlpha = "<color=#00000000>";
     #endregion
 
     /// <summary>
@@ -108,7 +110,7 @@ public class DialogueManager : MonoBehaviour
         currentDialogueSO = newDialogueSO;
         conversationWindow.SetActive(true);
         StopAllCoroutines();
-        StartCoroutine(Type());
+        StartCoroutine(DisplayLineAlpha());
         conversationCurrentNumber++;
         playerController?.SetUIState(PlayerController.UIState.Dialogue);
         playerMovement?.SetControlState(PlayerMovement.ControlState.gameControl);
@@ -118,27 +120,22 @@ public class DialogueManager : MonoBehaviour
     /// The coroutine for the typing of the single characters of the words
     /// </summary>
     /// <returns></returns>
-    IEnumerator Type()
+    IEnumerator DisplayLineAlpha()
     {
-        string[] sentences = currentDialogueSO.GetSentences();
-        if (conversationCurrentNumber >= sentences.Length)
-        {
-            yield break;
-        }
+        var sentences = currentDialogueSO.GetSentences();
 
-
-        textDisplay.text = "";
-        ButtonLogic(false);
+        NextButtonToggle(false);
         UpdateCharacterProperties();
 
-        foreach (char letter in sentences[conversationCurrentNumber].ToCharArray())
-        {
-            textDisplay.text += letter;
+        string originalText = sentences[conversationCurrentNumber];
 
+        for (int i = 0; i < originalText.Length + 1; i++)
+        {
+            textDisplay.text = originalText.Insert(i, textAlpha);
             yield return new WaitForSeconds(typingSpeed);
         }
 
-        ButtonLogic(true);
+        NextButtonToggle(true);
     }
 
     /// <summary>
@@ -146,21 +143,22 @@ public class DialogueManager : MonoBehaviour
     /// </summary>
     public void NextSentence()
     {
+        if (currentDialogueSO == null) return;
+        if (isTyping) return;
+
         typingSpeed = typingSpeedSave;
 
-        if (currentDialogueSO == null) return;
         string[] sentences = currentDialogueSO.GetSentences();
-        if (conversationCurrentNumber > sentences.Length && isTyping)
-            return;
 
-        textDisplay.text = null;
-        StartCoroutine(Type());
-        conversationCurrentNumber++;
-
-        if (conversationCurrentNumber >= sentences.Length + 1)
+        if (conversationCurrentNumber >= sentences.Length)
         {
             EndDialogue();
+            return;
         }
+
+        StartCoroutine(DisplayLineAlpha());
+        conversationCurrentNumber++;
+
     }
 
     /// <summary>
@@ -196,7 +194,7 @@ public class DialogueManager : MonoBehaviour
     /// <summary>
     /// Toggle the button and isTypingBool
     /// </summary>
-    void ButtonLogic(bool value)
+    void NextButtonToggle(bool value)
     {
         if (!value)
         {

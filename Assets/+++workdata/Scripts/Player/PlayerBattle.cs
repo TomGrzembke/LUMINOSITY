@@ -157,21 +157,20 @@ public class PlayerBattle : MonoBehaviour, IDataPersistence
         if (!dialogueManager.dialogueActive) return;
 
         if (!dialogueManager.GetIsTyping())
-        {
             dialogueManager.NextSentence();
-        }
+
         else if (dialogueManager.GetIsTyping())
-        {
             dialogueManager.TextSpeedUp();
-        }
     }
 
     private void Attack()
     {
         if (!(battleController.GetTurnState() == BattleController.TurnState.playerTurn)) return;
         if (!battleController.GetPlayerCanShoot()) return;
+
         Invoke(nameof(SlashCommand), 0.3f);
         anim.SetTrigger("isAttacking");
+
         if(soundController == null) return;
         soundController.PlaySworslash();
 
