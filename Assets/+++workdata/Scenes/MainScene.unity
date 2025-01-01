@@ -27806,7 +27806,7 @@ GameObject:
   - component: {fileID: 1219305464}
   - component: {fileID: 1219305465}
   m_Layer: 0
-  m_Name: ConversationManager
+  m_Name: DialogueManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27852,6 +27852,7 @@ MonoBehaviour:
   nameDisplay: {fileID: 7941876596210828398}
   nextButton: {fileID: 7941876595625326185}
   storyManager: {fileID: 1972013412}
+  soundController: {fileID: 1991503694}
   charsSOs:
   - {fileID: 11400000, guid: 9628fb83b99a85246a15a9dcdf52a8c9, type: 2}
   - {fileID: 11400000, guid: af927ddaf08e28c42b14d961fa6b074d, type: 2}
@@ -48952,11 +48953,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4530253087965887739, guid: 2cce783721108f348a47442e603a5c92, type: 3}
       propertyPath: m_Name
-      value: EffectsController
-      objectReference: {fileID: 0}
-    - target: {fileID: 4530253087965887740, guid: 2cce783721108f348a47442e603a5c92, type: 3}
-      propertyPath: m_RootOrder
-      value: 5
+      value: SoundEffectsController
       objectReference: {fileID: 0}
     - target: {fileID: 4530253087965887740, guid: 2cce783721108f348a47442e603a5c92, type: 3}
       propertyPath: m_LocalPosition.x

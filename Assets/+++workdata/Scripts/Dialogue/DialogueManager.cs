@@ -71,6 +71,7 @@ public class DialogueManager : MonoBehaviour
     /// </summary>
     [SerializeField] GameObject nextButton;
     [SerializeField] StoryManager storyManager;
+    [SerializeField] SoundController soundController;
 
 
     /// <summary>
@@ -132,6 +133,7 @@ public class DialogueManager : MonoBehaviour
         for (int i = 0; i < originalText.Length + 1; i++)
         {
             textDisplay.text = originalText.Insert(i, textAlpha);
+            soundController.PlayType();
             yield return new WaitForSeconds(typingSpeed);
         }
 

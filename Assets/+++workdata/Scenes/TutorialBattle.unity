@@ -3946,6 +3946,7 @@ MonoBehaviour:
   nameDisplay: {fileID: 1505524157}
   nextButton: {fileID: 1505524158}
   storyManager: {fileID: 0}
+  soundController: {fileID: 286307137}
   charsSOs:
   - {fileID: 11400000, guid: 9628fb83b99a85246a15a9dcdf52a8c9, type: 2}
   - {fileID: 11400000, guid: af927ddaf08e28c42b14d961fa6b074d, type: 2}
